@@ -6,7 +6,7 @@
 % .
 
 syms z
-syms L
+syms X,L
 L=1;
 N_1 = 1 - 3 * z^2 + 2 * z^3
 figure
@@ -41,7 +41,7 @@ N = [N_1; N_2; N_3; N_4]
 int(N, X)
 
 syms Feq
-Feq == symhold('p1*int(N, X, 0, L) + (p2 - p1)*int((X*N)/L, X, 0, L)')
+Feq = symhold('p1*int(N, X, 0, L) + (p2 - p1)*int((X*N)/L, X, 0, L)')
 %% 
 % Finally
 %%
