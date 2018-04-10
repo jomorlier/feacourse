@@ -1,0 +1,63 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="generator" content="MATLAB R2017b"><meta http-equiv="X-UA-Compatible" content="IE=edge,IE=9,chrome=1"><title>Derivation of the stiffness matrix of a 3-node bar element</title><style type="text/css">
+* {margin: 0; padding: 0;}
+body {text-align: start; line-height: 17.234001159668px; min-height: 0px; white-space: normal; color: rgb(0, 0, 0); font-family: Menlo, Monaco, Consolas, 'Courier New', monospace; font-style: normal; font-size: 14px; font-weight: normal; text-decoration: none; white-space: normal; }
+h1, h2 {font-weight: normal;}
+.content { padding: 30px; }
+
+.S0 { margin-left: 0px; margin-top: 0px; margin-bottom: 0px; margin-right: 0px;  }
+.S1 { text-align: left; line-height: 26.3999996185303px; min-height: 24px; white-space: pre-wrap; color: rgb(213, 80, 0); font-family: Helvetica, Arial, sans-serif; font-size: 22.0000019073486px; white-space: pre-wrap; margin-left: 4px; margin-top: 3px; margin-bottom: 15px; margin-right: 10px;  }
+.S2 { min-height: 0px; margin-left: 0px; margin-top: 0px; margin-bottom: 0px; margin-right: 0px;  }
+.S3 { text-align: left; line-height: 20.576000213623px; min-height: 20px; white-space: pre-wrap; color: rgb(60, 60, 60); font-family: Helvetica, Arial, sans-serif; font-size: 16px; font-weight: bold; white-space: pre-wrap; margin-left: 4px; margin-top: 3px; margin-bottom: 9px; margin-right: 10px;  }
+.S4 { margin-left: 3px; margin-top: 10px; margin-bottom: 4px; margin-right: 3px;  }
+.S5 { min-height: 18px; white-space: nowrap; white-space: nowrap; margin-left: 0px; margin-top: 0px; margin-bottom: 0px; margin-right: 0px;  }
+.S6 { min-height: 0px; white-space: pre; white-space: pre; margin-left: 0px; margin-top: 0px; margin-bottom: 0px; margin-right: 45px;  }
+.S7 { color: rgb(34, 139, 34); margin-left: 0px; margin-top: 0px; margin-bottom: 0px; margin-right: 0px;  }
+.S8 { color: rgb(160, 32, 240); margin-left: 0px; margin-top: 0px; margin-bottom: 0px; margin-right: 0px;  }
+
+.CodeBlock {margin: 10px 0 10px 0; background-color: #F7F7F7;}
+.CodeBlock+.paragraphNode {margin-top: 10px;}
+.lineNode {padding-left: 10px; border-left: 1px solid #E9E9E9; border-right: 1px solid #E9E9E9;}
+.inlineWrapper:first-child .lineNode,.inlineWrapper.outputs+.inlineWrapper .lineNode {padding-top: 5px; border-top: 1px solid #E9E9E9;}
+.inlineWrapper:last-child .lineNode,.inlineWrapper.outputs .lineNode {padding-bottom: 5px; border-bottom: 1px solid #E9E9E9;}
+.lineNode .textBox {white-space: pre;}
+</style></head><body><div class = "content"><div class = 'SectionBlock containment active'><h1 class = "S1"><span class = "S2"><span class="S0">Derivation of the stiffness matrix of a 3-node bar element</span></span></h1></div><div class = "S0"></div><div class = 'SectionBlock containment'><h2 class = "S3"><span class = "S2"><span class="S0">Clean up</span></span></h2><div class = 'CodeBlock contiguous'><div class = 'inlineWrapper'><div class = "S5 lineNode"><span class = "S6"><span class="S0"></span></span></div></div><div class = 'inlineWrapper'><div class = "S5 lineNode"><span class = "S6"><span class="S7">%clear workspace</span></span></div></div><div class = 'inlineWrapper'><div class = "S5 lineNode"><span class = "S6"><span class="S0">clear </span><span class="S8">all</span><span class="S0">;</span></span></div></div><div class = 'inlineWrapper'><div class = "S5 lineNode"><span class = "S6"><span class="S7">%clear command window</span></span></div></div><div class = 'inlineWrapper'><div class = "S5 lineNode"><span class = "S6"><span class="S0">clc;</span></span></div></div><div class = 'inlineWrapper'><div class = "S5 lineNode"><span class = "S6"><span class="S7">%clear figures</span></span></div></div><div class = 'inlineWrapper'><div class = "S5 lineNode"><span class = "S6"><span class="S0">clf;</span></span></div></div></div></div><div class = "S0"></div><div class = 'SectionBlock containment'><h2 class = "S3"><span class = "S2"><span class="S0">Define symbolic quantities</span></span></h2><div class = 'CodeBlock contiguous'><div class = 'inlineWrapper'><div class = "S5 lineNode"><span class = "S6"><span class="S0">syms </span><span class="S8">r x L</span></span></div></div><div class = 'inlineWrapper'><div class = "S5 lineNode"><span class = "S6"><span class="S0">syms </span><span class="S8">E_mod A_sec</span></span></div></div><div class = 'inlineWrapper'><div class = "S5 lineNode"><span class = "S6"><span class="S0">syms </span><span class="S8">q</span></span></div></div><div class = 'inlineWrapper'><div class = "S5 lineNode"><span class = "S6"><span class="S7">%the derived quantities will automatically be initialized as symbolic variables as well</span></span></div></div><div class = 'inlineWrapper'><div class = "S5 lineNode"><span class = "S6"><span class="S0"></span></span></div></div></div></div><div class = "S0"></div><div class = 'SectionBlock containment'><h2 class = "S3"><span class = "S2"><span class="S0">Derive shape functions N</span></span></h2><div class = 'CodeBlock contiguous'><div class = 'inlineWrapper'><div class = "S5 lineNode"><span class = "S6"><span class="S0">A = [1,r,r^2]</span></span></div></div><div class = 'inlineWrapper'><div class = "S5 lineNode"><span class = "S6"><span class="S0">E = [1,-1,1;1,0,0;1,1,1]</span></span></div></div><div class = 'inlineWrapper'><div class = "S5 lineNode"><span class = "S6"><span class="S0">N = simplify(A*E^-1)</span></span></div></div></div></div><div class = "S0"></div><div class = 'SectionBlock containment'><h2 class = "S3"><span class = "S2"><span class="S0">Derive strain-displacement matrix B</span></span></h2><div class = 'CodeBlock contiguous'><div class = 'inlineWrapper'><div class = "S5 lineNode"><span class = "S6"><span class="S0">Jac = diff(2*x/L-1,x)</span></span></div></div><div class = 'inlineWrapper'><div class = "S5 lineNode"><span class = "S6"><span class="S0">det_Jac = Jac^-1</span></span></div></div><div class = 'inlineWrapper'><div class = "S5 lineNode"><span class = "S6"><span class="S0">B = simplify(diff(N)*Jac)</span></span></div></div></div></div><div class = "S0"></div><div class = 'SectionBlock containment'><h2 class = "S3"><span class = "S2"><span class="S0">Construct stiffness matrix</span></span></h2><div class = 'CodeBlock contiguous'><div class = 'inlineWrapper'><div class = "S5 lineNode"><span class = "S6"><span class="S0">K_3node = E_mod * A_sec * int(B'*B,r,-1,1)*det_Jac</span></span></div></div><div class = 'inlineWrapper'><div class = "S5 lineNode"><span class = "S6"><span class="S0">matrix_factor = gcd(K_3node), K_3node/matrix_factor</span></span></div></div></div></div><div class = "S0"></div><div class = 'SectionBlock containment'><h2 class = "S3"><span class = "S2"><span class="S0">Construct loading vector</span></span></h2><div class = 'CodeBlock contiguous'><div class = 'inlineWrapper'><div class = "S5 lineNode"><span class = "S6"><span class="S0">F_3node = int(N'*q,r,-1,1)*det_Jac</span></span></div></div><div class = 'inlineWrapper'><div class = "S5 lineNode"><span class = "S6"><span class="S0">vector_factor = gcd(F_3node), F_3node/vector_factor</span></span></div></div><div class = 'inlineWrapper'><div class = "S5 lineNode"><span class = "S6"><span class="S0"></span></span></div></div></div></div></div>
+<!-- 
+##### SOURCE BEGIN #####
+%% Derivation of the stiffness matrix of a 3-node bar element
+%% Clean up
+%%
+
+%clear workspace
+clear all;
+%clear command window
+clc;
+%clear figures
+clf;
+%% Define symbolic quantities
+%%
+syms r x L
+syms E_mod A_sec
+syms q
+%the derived quantities will automatically be initialized as symbolic variables as well
+
+%% Derive shape functions N
+%%
+A = [1,r,r^2]
+E = [1,-1,1;1,0,0;1,1,1]
+N = simplify(A*E^-1)
+%% Derive strain-displacement matrix B
+%%
+Jac = diff(2*x/L-1,x)
+det_Jac = Jac^-1
+B = simplify(diff(N)*Jac)
+%% Construct stiffness matrix
+%%
+K_3node = E_mod * A_sec * int(B'*B,r,-1,1)*det_Jac
+matrix_factor = gcd(K_3node), K_3node/matrix_factor
+%% Construct loading vector
+%%
+F_3node = int(N'*q,r,-1,1)*det_Jac
+vector_factor = gcd(F_3node), F_3node/vector_factor
+##### SOURCE END #####
+--></body></html>
