@@ -5,8 +5,14 @@
 % nodal forces  *F* due to a trapezoidal load with intensities  _p1_ and  _p2_ 
 % .
 
+%clear workspace
+clear all;
+%clear command window
+clc;
+%clear figures
+clf;
 syms z
-syms X,L
+syms X L
 L=1;
 N_1 = 1 - 3 * z^2 + 2 * z^3
 figure
