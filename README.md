@@ -21,3 +21,10 @@ And probably the most important thing ... how can I model distributed forces?
 
 4th MATLAB tutorial on [Equivalent forces for beam element](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse2018/blob/master/Equivalent_Nodal_force/Equivalent_Nodal_force.html)
 
+
+From the course [Example2](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse2018/blob/master/Correction_Example2/Correction_Example2_NoSYM.html)
+
+
+The same example using Symbolic computing for checking the slides [Example2](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse2018/blob/master/Correction_Example2/Correction_Example2.html)
+
+
