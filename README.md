@@ -1,6 +1,12 @@
 # feacourse2018
 
-This webpage contains **only** tutorials. Warning I'm using a lot symbolic computation but in the scope of the course:
+You can find in PC3A.pdf the content of the handwritten exercices on FEA.
+
+here is the shared tex files
+https://v2.overleaf.com/project/5b92449b27c88a7311a508fd
+
+
+This webpage contains **also** tutorials. Warning I'm using a lot symbolic computation but in the scope of the course:
 you'll need to do Gauss integration (exact integration for polynoms) because of the shape functions are ofthen 3rd order polynomial...
 
 The slides of the different courses are available on *SUPAERO's LMS* with supplementary materials (Nastran), assignements (matlab) & projects (matlab, nastran, samcef).
