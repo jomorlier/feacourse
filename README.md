@@ -2,8 +2,12 @@
 
 You can find in PC3A.pdf the content of the handwritten exercices on FEA.
 
-here is the shared tex files
 https://v2.overleaf.com/project/5b92449b27c88a7311a508fd
+
+You can also find a tutorial on Finite element + Nastran in IntroNastran.pdf
+
+https://v2.overleaf.com/project/57fe421839536a6d421c2734
+
 
 
 This webpage contains **also** tutorials. Warning I'm using a lot symbolic computation but in the scope of the course:
