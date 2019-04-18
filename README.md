@@ -38,4 +38,11 @@ Can you add the strain/stress postprocessing?
 
 To check the same example using Symbolic computing for checking the slides [Example2](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse2018/blob/master/Correction_Example2/Correction_Example2.html)
 
+How can I assembly beam + bar ? [AssignementC2_2018](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse2018/blob/master/AssignementC2_2018/Assignement2_2018_correction.html)
+
+Prof, can you help to understand how to compute the stiffness matrix of 2D membrane?
+Explictely ?  [Membrane2D_K](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse2018/blob/master/Membrane2D_K/Elementarystiffrecmesh.html)
+
+
+
 
