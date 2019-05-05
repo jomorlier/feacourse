@@ -40,9 +40,11 @@ To check the same example using Symbolic computing for checking the slides [Exam
 
 How can I assembly beam + bar ? [AssignementC2_2018](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse2018/blob/master/AssignementC2_2018/Assignement2_2018_correction.html)
 
-Prof, can you help to understand how to compute the stiffness matrix of 2D membrane?
+Prof, can you help to us understand how to compute the stiffness matrix of 2D membrane?
 Explictely ?  [Membrane2D_K](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse2018/blob/master/Membrane2D_K/Elementarystiffrecmesh.html)
 
+Prof, can you help us to understand the plate modeling and bending behaviour?
+Explictely ?  [Plate2D_Bending](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse2018/blob/master/Plate2D_Bending/plate_el.html)
 
 
 
