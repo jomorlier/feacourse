@@ -8,6 +8,10 @@ You can also find a tutorial on Finite element + Nastran in IntroNastran.pdf
 
 https://v2.overleaf.com/project/57fe421839536a6d421c2734
 
+I strongly recommend this book
+
+http://web.mit.edu/kjb/www/Books/FEP_2nd_Edition_4th_Printing.pdf
+
 
 
 This webpage contains **also** tutorials. Warning I'm using a lot symbolic computation but in the scope of the course:
