@@ -44,7 +44,7 @@ Prof, can you help to us understand how to compute the stiffness matrix of 2D me
 Explictely ?  [Membrane2D_K](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse2018/blob/master/Membrane2D_K/Elementarystiffrecmesh.html)
 
 Prof, can you help us to understand the plate modeling and bending behaviour?
-Explictely ?  [Plate2D_Bending](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse2018/blob/master/Plate2D_Bending/plate_el.html)
+Thanks to my PhD S. Coniglio !  [Plate2D_Bending](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse2018/blob/master/Plate2D_Bending/plate_el.html)
 
 
 
