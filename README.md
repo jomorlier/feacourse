@@ -26,6 +26,9 @@ Then How do we derive the K stiffness matrix for a rod?
 
 2nd MATLAB tutorial on [2 nodes rod](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse2018/blob/master/K_derivation_Rod/K_derivation2_node.html)
 
+A truss assembly ?
+[6 bar truss example](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse2018/blob/master/Truss/CorrectionTruss.html)
+
 But How do we derive the K stiffness matrix for a beam?
 
 
