@@ -1,4 +1,4 @@
-# feacourse2018
+# feacourse 2019
 
 You can find in PC3A.pdf the content of the handwritten exercices on FEA.
 
