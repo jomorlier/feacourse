@@ -1,5 +1,11 @@
 # feacourse 2019
 
+
+For SUPAERO's 3rd year, you can file an archive with french course on sizing, beam's theory, structural dynamics and plate computing.
+
+Recap [Structural Mechanics](https://github.com/jomorlier/feacourse2018)
+
+
 You can find in PC3A.pdf the content of the handwritten exercices on FEA.
 
 https://v2.overleaf.com/project/5b92449b27c88a7311a508fd
