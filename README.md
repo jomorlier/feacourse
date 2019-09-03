@@ -5,6 +5,7 @@ For SUPAERO's 3rd year, you can file an archive with french course on sizing, be
 
 Recap [Structural Mechanics](https://github.com/jomorlier/feacourse2019/blob/master/Recap_1A_2A_SUPAERO.zip)
 
+Recap [Linear FEA](https://github.com/jomorlier/feacourse2019/blob/master/ArchiveFEA.zip)
 
 You can find in PC3A.pdf the content of the handwritten exercices on FEA.
 
