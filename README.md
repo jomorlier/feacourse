@@ -1,11 +1,15 @@
 # feacourse 2019
 
 
-For SUPAERO's 3rd year, you can file an archive with french course on sizing, beam's theory, structural dynamics and plate computing.
+****************
 
-Recap [Structural Mechanics](https://github.com/jomorlier/feacourse2019/blob/master/Recap_1A_2A_SUPAERO.zip)
+LECTURES
 
-Recap [Linear FEA](https://github.com/jomorlier/feacourse2019/blob/master/ArchiveFEA.zip)
+****************
+
+4 courses [Linear FEA](https://github.com/jomorlier/feacourse2019/blob/master/ArchiveFEA.zip)
+
+The slides of the different courses are available on *SUPAERO's LMS* with supplementary materials (Nastran), assignements (matlab) & projects (matlab, nastran, samcef).
 
 You can find in PC3A.pdf the content of the handwritten exercices on FEA.
 
@@ -15,16 +19,21 @@ You can also find a tutorial on Finite element + Nastran in IntroNastran.pdf
 
 https://v2.overleaf.com/project/57fe421839536a6d421c2734
 
-I strongly recommend this book
+I strongly recommend to read and learn from this MIT's book
 
 http://web.mit.edu/kjb/www/Books/FEP_2nd_Edition_4th_Printing.pdf
 
+
+****************
+
+TUTORIALS (MATLAB)
+
+****************
 
 
 This webpage contains **also** tutorials. Warning I'm using a lot symbolic computation but in the scope of the course:
 you'll need to do Gauss integration (exact integration for polynoms) because of the shape functions are ofthen 3rd order polynomial...
 
-The slides of the different courses are available on *SUPAERO's LMS* with supplementary materials (Nastran), assignements (matlab) & projects (matlab, nastran, samcef).
 
 1st MATLAB tutorial on [Shape functions](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse2018/blob/master/Shape_Functions/ShapeFunction.html)
 
@@ -59,6 +68,18 @@ Explictely ?  [Membrane2D_K](http://htmlpreview.github.io/?https://github.com/jo
 
 Prof, can you help us to understand the plate modeling and bending behaviour?
 Thanks to my PhD S. Coniglio !  [Plate2D_Bending](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse2018/blob/master/Plate2D_Bending/plate_el.html)
+
+
+
+****************
+
+RECAP
+
+****************
+
+For SUPAERO's 3rd year, you can file an archive with french course on sizing, beam's theory, structural dynamics and plate computing.
+
+Recap [Structural Mechanics](https://github.com/jomorlier/feacourse2019/blob/master/Recap_1A_2A_SUPAERO.zip)
 
 
 
