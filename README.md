@@ -1,4 +1,4 @@
-# feacourse 2019
+# feacourse 2020
 
 
 ****************
@@ -9,7 +9,7 @@ LECTURES
 
 4 courses [Linear FEA](https://github.com/jomorlier/feacourse2019/blob/master/ArchiveFEA.zip)
 
-The slides of the different courses are available on *SUPAERO's LMS* with supplementary materials (Nastran), assignements (matlab) & projects (matlab, nastran, samcef).
+The slides of the different courses are available on *SUPAERO's LMS* with supplementary materials (video, Nastran), assignements (matlab) & projects (matlab, nastran, abaqus).
 
 You can find in PC3A.pdf the content of the handwritten exercices on FEA.
 
