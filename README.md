@@ -21,7 +21,7 @@ the full explanation of Matlab's implementation with symbolic computing
 
 
 Matlab's implementation with 3 elements
-[correction](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse2018/blob/master/AxialRod/AxialBarFEM_simplified2.html)
+[correction](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse/blob/master/AxialRod/AxialBarFEM_simplified2.html)
 
 from a very nice reference https://en.wikiversity.org/wiki/Introduction_to_finite_elements/Axial_bar_finite_element_solution
 
@@ -53,38 +53,38 @@ This webpage contains **also** tutorials. Warning I'm using a lot symbolic compu
 you'll need to do Gauss integration (exact integration for polynoms) because of the shape functions are ofthen 3rd order polynomial...
 
 
-1st MATLAB tutorial on [Shape functions](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse2018/blob/master/Shape_Functions/ShapeFunction.html)
+1st MATLAB tutorial on [Shape functions](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse/blob/master/Shape_Functions/ShapeFunction.html)
 
 Then How do we derive the K stiffness matrix for a rod?
 
 
-2nd MATLAB tutorial on [2 nodes rod](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse2018/blob/master/K_derivation_Rod/K_derivation2_node.html)
+2nd MATLAB tutorial on [2 nodes rod](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse/blob/master/K_derivation_Rod/K_derivation2_node.html)
 
 A truss assembly by direct stiffness method ?
-[6 bar truss example](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse2018/blob/master/Truss/CorrectionTruss.html)
+[6 bar truss example](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse/blob/master/Truss/CorrectionTruss.html)
 
 But How do we derive the K stiffness matrix for a beam?
 
-3rd MATLAB tutorial on [2 nodes beam](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse2018/blob/master/K_derivation_Beam/K_derivation_beam.html)
+3rd MATLAB tutorial on [2 nodes beam](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse/blob/master/K_derivation_Beam/K_derivation_beam.html)
 
 And probably the most important thing ... how can I model distributed forces?
 
-4th MATLAB tutorial on [Equivalent forces for beam element](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse2018/blob/master/Equivalent_Nodal_force/Equivalent_Nodal_force.html)
+4th MATLAB tutorial on [Equivalent forces for beam element](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse/blob/master/Equivalent_Nodal_force/Equivalent_Nodal_force.html)
 
 
 From the course, an implementation with the explained [Example2](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse2018/blob/master/Correction_Example2/Correction_Example2_NoSYM.html)
 
 Can you add the strain/stress postprocessing?
 
-To check the same example using Symbolic computing for checking the slides [Example2](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse2018/blob/master/Correction_Example2/Correction_Example2.html)
+To check the same example using Symbolic computing for checking the slides [Example2](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse/blob/master/Correction_Example2/Correction_Example2.html)
 
-How can I assembly beam + bar ? [AssignementC2_2018](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse2018/blob/master/AssignementC2_2018/Assignement2_2018_correction.html)
+How can I assembly beam + bar ? [AssignementC2_2018](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse/blob/master/AssignementC2_2018/Assignement2_2018_correction.html)
 
 Prof, can you help to us understand how to compute the stiffness matrix of 2D membrane?
-Explictely ?  [Membrane2D_K](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse2018/blob/master/Membrane2D_K/Elementarystiffrecmesh.html)
+Explictely ?  [Membrane2D_K](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse/blob/master/Membrane2D_K/Elementarystiffrecmesh.html)
 
 Prof, can you help us to understand the plate modeling and bending behaviour?
-Thanks to my PhD S. Coniglio !  [Plate2D_Bending](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse2018/blob/master/Plate2D_Bending/plate_el.html)
+Thanks to my PhD S. Coniglio !  [Plate2D_Bending](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse/blob/master/Plate2D_Bending/plate_el.html)
 
 
 
@@ -96,7 +96,7 @@ RECAP
 
 For SUPAERO's 3rd year, you can file an archive with french course on sizing, beam's theory, structural dynamics and plate computing.
 
-Recap [Structural Mechanics](https://github.com/jomorlier/feacourse2019/blob/master/Recap_1A_2A_SUPAERO.zip)
+Recap [Structural Mechanics](https://github.com/jomorlier/feacourse/blob/master/Recap_1A_2A_SUPAERO.zip)
 
 
 
