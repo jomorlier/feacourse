@@ -9,6 +9,12 @@ LECTURES
 
 4 courses [Linear FEA](https://github.com/jomorlier/feacourse2019/blob/master/ArchiveFEA.zip)
 
+
+Assignement C1 AXIAL ROD 
+from https://en.wikiversity.org/wiki/Introduction_to_finite_elements/Axial_bar_finite_element_solution
+
+
+
 The slides of the different courses are available on *SUPAERO's LMS* with supplementary materials (video, Nastran), assignements (matlab) & projects (matlab, nastran, abaqus).
 
 You can find in PC3A.pdf the content of the handwritten exercices on FEA.
@@ -42,11 +48,10 @@ Then How do we derive the K stiffness matrix for a rod?
 
 2nd MATLAB tutorial on [2 nodes rod](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse2018/blob/master/K_derivation_Rod/K_derivation2_node.html)
 
-A truss assembly ?
+A truss assembly by direct stiffness method ?
 [6 bar truss example](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse2018/blob/master/Truss/CorrectionTruss.html)
 
 But How do we derive the K stiffness matrix for a beam?
-
 
 3rd MATLAB tutorial on [2 nodes beam](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse2018/blob/master/K_derivation_Beam/K_derivation_beam.html)
 
