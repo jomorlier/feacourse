@@ -17,10 +17,11 @@ AssignementC3toC4
 
 Full correction of Assignement C1 Axial Rod with distributed force
 the full explanation of Matlab's implementation with symbolic computing
-http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse/blob/master/AxialRod/AxialBarFEM_explanation.html)
+[Explanation](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse/blob/master/AxialRod/AxialBarFEM_explanation.html)
+
 
 Matlab's implementation with 3 elements
-http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse2018/blob/master/AxialRod/AxialBarFEM_Simplified2.html)
+[correction](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse2018/blob/master/AxialRod/AxialBarFEM_simplified2.html)
 
 from a very nice reference https://en.wikiversity.org/wiki/Introduction_to_finite_elements/Axial_bar_finite_element_solution
 
