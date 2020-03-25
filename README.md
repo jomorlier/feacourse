@@ -10,8 +10,19 @@ LECTURES
 4 courses [Linear FEA](https://github.com/jomorlier/feacourse2019/blob/master/ArchiveFEA.zip)
 
 
-Assignement C1 AXIAL ROD 
-from https://en.wikiversity.org/wiki/Introduction_to_finite_elements/Axial_bar_finite_element_solution
+
+Have a look to the course exercice in the 2 repo
+AssignementC1toC2
+AssignementC3toC4
+
+Full correction of Assignement C1 Axial Rod with distributed force
+the full explanation of Matlab's implementation with symbolic computing
+http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse2018/blob/master/K_derivation_Rod/K_derivation2_node.html)
+
+Matlab's implementation with 3 elements
+http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse2018/blob/master/K_derivation_Rod/K_derivation2_node.html)
+
+from a very nice reference https://en.wikiversity.org/wiki/Introduction_to_finite_elements/Axial_bar_finite_element_solution
 
 
 
