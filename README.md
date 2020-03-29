@@ -2,9 +2,7 @@
 
 
 ****
-
 LECTURES
-
 ****
 
 4 courses [Linear FEA](https://github.com/jomorlier/feacourse2019/blob/master/ArchiveFEA.zip)
