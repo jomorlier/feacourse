@@ -1,11 +1,11 @@
 # feacourse 2020
 
 
-****************
+****
 
 LECTURES
 
-****************
+****
 
 4 courses [Linear FEA](https://github.com/jomorlier/feacourse2019/blob/master/ArchiveFEA.zip)
 Please read it carrefully in autonomy. 
@@ -39,8 +39,9 @@ AssignementC3toC4
 
 The slides of the different courses are available on *SUPAERO's LMS* with supplementary materials (video, Nastran), assignements (matlab) & projects (matlab, nastran, abaqus).
 
-
-## TUTORIALS (MATLAB)
+****
+TUTORIALS (MATLAB)
+****
 
 Full correction of Assignement C1 Axial Rod with distributed force
 the full explanation of Matlab's implementation with symbolic computing
@@ -95,7 +96,9 @@ Explictely ?  [Membrane2D_K](http://htmlpreview.github.io/?https://github.com/jo
 Prof, can you help us to understand the plate modeling and bending behaviour?
 Thanks to my PhD S. Coniglio !  [Plate2D_Bending](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse/blob/master/Plate2D_Bending/plate_el.html)
 
-## REFERENCES
+****
+REFERENCES
+****
 
 You can find in PC3A.pdf the content of the handwritten exercices on FEA.
 
