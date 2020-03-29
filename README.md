@@ -14,6 +14,7 @@ Please read it carrefully in autonomy.
 
 ## Q&A session 
 3 videoconferences (ZOOM) planned on:
+
 Monday 20th of april 2020 14H00-14H30 Kick Off (ZOOM, J. MORLIER) 
 Tuesday 21th of april 2020 14H00-15H00 Q&A session and feedback on assignement 1/2 (ZOOM, J. MORLIER) 
 Wenesday 22th of april 2020 13H30-14H00  Q&A session and feedback on assignement 3 (ZOOM, J. MORLIER) 
@@ -28,7 +29,7 @@ Exercice1 intro [slide C1 with audio](https://app.amanote.com/note-taking/docume
 
 Practical example [slide C1 with audio](https://app.amanote.com/note-taking/document/7f788c32-3844-44f5-b357-cff084fcaacd)
 
-Different type of elements [slide C1 with audio](https://app.amanote.com/note-taking/document/0746906a-1e85-4e31-bd69-95233fbcce88)
+Different types of FE elements [slide C1 with audio](https://app.amanote.com/note-taking/document/0746906a-1e85-4e31-bd69-95233fbcce88)
 
 Have a look to the course exercice in the 2 repo
 AssignementC1toC2
@@ -54,11 +55,9 @@ from a very nice reference https://en.wikiversity.org/wiki/Introduction_to_finit
 I'm using a lot symbolic computation but in the scope of the course:
 you'll need to do Gauss integration (exact integration for polynoms) because of the shape functions are ofthen 3rd order polynomial...
 
-
 1st MATLAB tutorial on [Shape functions](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse/blob/master/Shape_Functions/ShapeFunction.html)
 
 Then How do we derive the K stiffness matrix for a rod?
-
 
 2nd MATLAB tutorial on [2 nodes rod](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse/blob/master/K_derivation_Rod/K_derivation2_node.html)
 
@@ -85,7 +84,6 @@ How can I assembly beam + bar ? [AssignementC2_2018](http://htmlpreview.github.i
 
 
 ## MORE ADVANCED STUFF
-
 
 for people wondering about how linear elasticity of top88.m is working
 
