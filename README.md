@@ -10,7 +10,7 @@ LECTURES
 4 courses [Linear FEA](https://github.com/jomorlier/feacourse2019/blob/master/ArchiveFEA.zip)
 Please read it carrefully in autonomy. 
 
-Static Analysis SOL101 (NASTRAN) := $Ku=f$
+Static Analysis SOL101 (NASTRAN) := $$Ku=f$$
 
 
 
