@@ -8,23 +8,31 @@ LECTURES
 ****************
 
 4 courses [Linear FEA](https://github.com/jomorlier/feacourse2019/blob/master/ArchiveFEA.zip)
+Please read it carrefully in autonomy.
 
 
-## C1
 
-General introduction [slide with audio](https://app.amanote.com/note-taking/document/16c3c1e9-68a1-460c-b7a3-a0a48317e9a2)
+## Q&A session 
+3 videoconferences (ZOOM) planned on:
+Monday 20th of april 2020 14H00-14H30 Kick Off (ZOOM, J. MORLIER) 
+Tuesday 21th of april 2020 14H00-15H00 Q&A session and feedback on assignement 1/2 (ZOOM, J. MORLIER) 
+Wenesday 22th of april 2020 13H30-14H00  Q&A session and feedback on assignement 3 (ZOOM, J. MORLIER) 
 
-Exercice1 intro [slide with audio](https://app.amanote.com/note-taking/document/830f8ac0-7c6e-4585-b725-4493262a3a4d)
 
-Practical example [slide with audio](https://app.amanote.com/note-taking/document/7f788c32-3844-44f5-b357-cff084fcaacd)
+## AUDIO 
 
-Different type of elements [slide with audio](https://app.amanote.com/note-taking/document/0746906a-1e85-4e31-bd69-95233fbcce88)
+
+General introduction [slide C1 with audio](https://app.amanote.com/note-taking/document/16c3c1e9-68a1-460c-b7a3-a0a48317e9a2)
+
+Exercice1 intro [slide C1 with audio](https://app.amanote.com/note-taking/document/830f8ac0-7c6e-4585-b725-4493262a3a4d)
+
+Practical example [slide C1 with audio](https://app.amanote.com/note-taking/document/7f788c32-3844-44f5-b357-cff084fcaacd)
+
+Different type of elements [slide C1 with audio](https://app.amanote.com/note-taking/document/0746906a-1e85-4e31-bd69-95233fbcce88)
 
 Have a look to the course exercice in the 2 repo
 AssignementC1toC2
 AssignementC3toC4
-
-
 
 The slides of the different courses are available on *SUPAERO's LMS* with supplementary materials (video, Nastran), assignements (matlab) & projects (matlab, nastran, abaqus).
 
