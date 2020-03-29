@@ -10,10 +10,26 @@ LECTURES
 4 courses [Linear FEA](https://github.com/jomorlier/feacourse2019/blob/master/ArchiveFEA.zip)
 
 
+## C1
+
+General introduction [slide with audio](https://app.amanote.com/note-taking/document/16c3c1e9-68a1-460c-b7a3-a0a48317e9a2)
+
+Exercice1 intro [slide with audio](https://app.amanote.com/note-taking/document/830f8ac0-7c6e-4585-b725-4493262a3a4d)
+
+Practical example [slide with audio](https://app.amanote.com/note-taking/document/7f788c32-3844-44f5-b357-cff084fcaacd)
+
+Different type of elements [slide with audio](https://app.amanote.com/note-taking/document/0746906a-1e85-4e31-bd69-95233fbcce88)
 
 Have a look to the course exercice in the 2 repo
 AssignementC1toC2
 AssignementC3toC4
+
+
+
+The slides of the different courses are available on *SUPAERO's LMS* with supplementary materials (video, Nastran), assignements (matlab) & projects (matlab, nastran, abaqus).
+
+
+## TUTORIALS (MATLAB)
 
 Full correction of Assignement C1 Axial Rod with distributed force
 the full explanation of Matlab's implementation with symbolic computing
@@ -26,30 +42,8 @@ Matlab's implementation with 3 elements
 from a very nice reference https://en.wikiversity.org/wiki/Introduction_to_finite_elements/Axial_bar_finite_element_solution
 
 
-
-The slides of the different courses are available on *SUPAERO's LMS* with supplementary materials (video, Nastran), assignements (matlab) & projects (matlab, nastran, abaqus).
-
-You can find in PC3A.pdf the content of the handwritten exercices on FEA.
-
-https://v2.overleaf.com/project/5b92449b27c88a7311a508fd
-
-You can also find a tutorial on Finite element + Nastran in IntroNastran.pdf
-
-https://v2.overleaf.com/project/57fe421839536a6d421c2734
-
-I strongly recommend to read and learn from this MIT's book
-
-http://web.mit.edu/kjb/www/Books/FEP_2nd_Edition_4th_Printing.pdf
-
-
-****************
-
-TUTORIALS (MATLAB)
-
-****************
-
-
-This webpage contains **also** tutorials. Warning I'm using a lot symbolic computation but in the scope of the course:
+## Warning
+I'm using a lot symbolic computation but in the scope of the course:
 you'll need to do Gauss integration (exact integration for polynoms) because of the shape functions are ofthen 3rd order polynomial...
 
 
@@ -82,11 +76,8 @@ How can I assembly beam + bar ? [AssignementC2_2018](http://htmlpreview.github.i
 
 
 
-****************
+## MORE ADVANCED STUFF
 
-MORE ADVANCED STUFF
-
-****************
 
 for people wondering about how linear elasticity of top88.m is working
 
@@ -96,13 +87,22 @@ Explictely ?  [Membrane2D_K](http://htmlpreview.github.io/?https://github.com/jo
 Prof, can you help us to understand the plate modeling and bending behaviour?
 Thanks to my PhD S. Coniglio !  [Plate2D_Bending](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse/blob/master/Plate2D_Bending/plate_el.html)
 
+## REFERENCES
+
+You can find in PC3A.pdf the content of the handwritten exercices on FEA.
+
+https://v2.overleaf.com/project/5b92449b27c88a7311a508fd
+
+You can also find a tutorial on Finite element + Nastran in IntroNastran.pdf
+
+https://v2.overleaf.com/project/57fe421839536a6d421c2734
+
+I strongly recommend to read and learn from this MIT's book
+
+http://web.mit.edu/kjb/www/Books/FEP_2nd_Edition_4th_Printing.pdf
 
 
-****************
-
-RECAP
-
-****************
+## RECAP
 
 For SUPAERO's 3rd year, you can file an archive with french course on sizing, beam's theory, structural dynamics and plate computing.
 
