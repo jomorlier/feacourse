@@ -17,7 +17,7 @@ Static Analysis SOL101 (NASTRAN) := Ku=f
 
 1. Monday 20th of april 2020 14H00-14H30 Kick Off (ZOOM, J. MORLIER) 
 2. Tuesday 21th of april 2020 14H00-15H00 Q&A session and feedback on assignement 1/2 (ZOOM, J. MORLIER) 
-3. Wenesday 22th of april 2020 13H30-14H00  Q&A session and feedback on assignement 3 (ZOOM, J. MORLIER) 
+3. Wednesday 22th of april 2020 13H30-14H00  Q&A session and feedback on assignement 3 (ZOOM, J. MORLIER) 
 
 
 ## AUDIO 
