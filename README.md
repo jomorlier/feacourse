@@ -22,6 +22,9 @@ Static Analysis SOL101 (NASTRAN) := Ku=f
 
 ## AUDIO 
 
+[Course 1](https://github.com/jomorlier/feacourse/blob/master/Course1.md)
+
+[Course 2](https://github.com/jomorlier/feacourse/blob/master/Course2.md)
 
 General introduction [slide C1 with audio](https://app.amanote.com/note-taking/document/16c3c1e9-68a1-460c-b7a3-a0a48317e9a2)
 
