@@ -9,10 +9,11 @@ LECTURES
 4 videoconferences (ZOOM) planned on:
 
 1. Monday 20th of april 2020 14H00-14H30 Kick Off (ZOOM, J. MORLIER) 
-2. Tuesday 21th of april 2020 14H00-15H00 Q&A session and feedback on assignement 1/2 (ZOOM, J. MORLIER) 
-3. Wednesday 22th of april 2020 13H30-14H00  Q&A session and feedback on assignement 2/3 (ZOOM, J. MORLIER) 
-4. Monday 27th of april 2020 11H00-12H00  Q&A session and feedback on assignement 4 (ZOOM, J. MORLIER) 
+2. Tuesday 21th of april 2020 14H00-15H00 Q&A session and feedback on assignement 1/2* (ZOOM, J. MORLIER) 
+3. Wednesday 22th of april 2020 13H30-14H00  Q&A session and feedback on assignement 2*/3 (ZOOM, J. MORLIER) 
+4. Monday 27th of april 2020 11H00-12H00  Q&A session and feedback on assignement 4* (ZOOM, J. MORLIER) 
 
+* marked --> upload a zip on LMS with all your files for assignement 2& 4
 
 4 lectures [Linear FEA](https://github.com/jomorlier/feacourse2019/blob/master/ArchiveFEA.zip)
 Please read it carrefully in autonomy. 
