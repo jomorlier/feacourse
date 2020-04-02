@@ -8,9 +8,6 @@ LECTURES
 4 lectures [Linear FEA](https://github.com/jomorlier/feacourse2019/blob/master/ArchiveFEA.zip)
 Please read it carrefully in autonomy. 
 
-Static Analysis SOL101 (NASTRAN) := Ku=f with K is a stiffness matrix, u vector of displacement, f vector of external force
-
-
 
 ## Q&A session 
 4 videoconferences (ZOOM) planned on:
@@ -54,6 +51,10 @@ from a very nice reference https://en.wikiversity.org/wiki/Introduction_to_finit
 I'm using a lot symbolic computation but in the scope of the course:
 you'll need to do Gauss integration (exact integration for polynoms) because of the shape functions are ofthen 3rd order polynomial...
 
+Static Analysis SOL101 (NASTRAN) := Ku=f with K is a stiffness matrix, u vector of displacement, f vector of external force
+you get u by : inv(K)*f
+
+
 1st MATLAB tutorial on [Shape functions](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse/blob/master/Shape_Functions/ShapeFunction.html)
 
 Then How do we derive the K stiffness matrix for a rod?
@@ -82,7 +83,7 @@ How can I assembly beam + bar ? [AssignementC2_2018](http://htmlpreview.github.i
 
 
 
-## MORE ADVANCED STUFF
+## MORE ADVANCED MATERIALS (BONUS)
 
 for people wondering about how linear elasticity of top88.m is working
 
