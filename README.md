@@ -13,7 +13,7 @@ Static Analysis SOL101 (NASTRAN) := Ku=f with K is a stiffness matrix, u vector 
 
 
 ## Q&A session 
-3 videoconferences (ZOOM) planned on:
+4 videoconferences (ZOOM) planned on:
 
 1. Monday 20th of april 2020 14H00-14H30 Kick Off (ZOOM, J. MORLIER) 
 2. Tuesday 21th of april 2020 14H00-15H00 Q&A session and feedback on assignement 1/2 (ZOOM, J. MORLIER) 
