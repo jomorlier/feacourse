@@ -5,20 +5,18 @@
 LECTURES
 ****
 
-4 lectures [Linear FEA](https://github.com/jomorlier/feacourse2019/blob/master/ArchiveFEA.zip)
-Please read it carrefully in autonomy. 
-
-Static Analysis SOL101 (NASTRAN) := Ku=f
-
-
-
 ## Q&A session 
-3 videoconferences (ZOOM) planned on:
+4 videoconferences (ZOOM) planned on:
 
 1. Monday 20th of april 2020 14H00-14H30 Kick Off (ZOOM, J. MORLIER) 
-2. Tuesday 21th of april 2020 14H00-15H00 Q&A session and feedback on assignement 1/2 (ZOOM, J. MORLIER) 
-3. Wednesday 22th of april 2020 13H30-14H00  Q&A session and feedback on assignement 3 (ZOOM, J. MORLIER) 
+2. Tuesday 21th of april 2020 14H00-15H00 Q&A session and feedback on assignement 1/2* (ZOOM, J. MORLIER) 
+3. Wednesday 22th of april 2020 13H30-14H00  Q&A session and feedback on assignement 2*/3 (ZOOM, J. MORLIER) 
+4. Monday 27th of april 2020 11H00-12H00  Q&A session and feedback on assignement 4* (ZOOM, J. MORLIER) 
 
+* marked --> upload a zip on LMS with all your files for assignement 2& 4
+
+4 lectures [Linear FEA](https://github.com/jomorlier/feacourse2019/blob/master/ArchiveFEA.zip)
+Please read it carrefully in autonomy. 
 
 ## AUDIO 
 
@@ -53,6 +51,10 @@ from a very nice reference https://en.wikiversity.org/wiki/Introduction_to_finit
 I'm using a lot symbolic computation but in the scope of the course:
 you'll need to do Gauss integration (exact integration for polynoms) because of the shape functions are ofthen 3rd order polynomial...
 
+Static Analysis SOL101 (NASTRAN) := Ku=f with K is a stiffness matrix, u vector of displacement, f vector of external force
+you get u by : inv(K)*f
+
+
 1st MATLAB tutorial on [Shape functions](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse/blob/master/Shape_Functions/ShapeFunction.html)
 
 Then How do we derive the K stiffness matrix for a rod?
@@ -81,7 +83,7 @@ How can I assembly beam + bar ? [AssignementC2_2018](http://htmlpreview.github.i
 
 
 
-## MORE ADVANCED STUFF
+## MORE ADVANCED MATERIALS (BONUS)
 
 for people wondering about how linear elasticity of top88.m is working
 
