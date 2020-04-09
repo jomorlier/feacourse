@@ -26,6 +26,10 @@ Please read it carrefully in autonomy.
 
 [Course 2](https://github.com/jomorlier/feacourse/blob/master/Course2.md)
 
+[Course 3](https://github.com/jomorlier/feacourse/blob/master/Course3.md)
+
+[Course 4](https://github.com/jomorlier/feacourse/blob/master/Course4.md)
+
 Have a look to the course exercice in the 2 repo
 AssignementC1toC2
 AssignementC3toC4
