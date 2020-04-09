@@ -1,4 +1,4 @@
-# J. Morlier
+# Course 3, " 2D linear elasticiy, CST, QUAD, and Gauss integration" by J. Morlier
 
 
 # Jack Chessa's Youtube channel on FEA
