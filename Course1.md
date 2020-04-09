@@ -1,4 +1,4 @@
-# J. Morlier
+# Course 1 by J. Morlier
 
 General introduction
 
