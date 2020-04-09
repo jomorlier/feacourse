@@ -1,7 +1,7 @@
-# J. Morlier
+# Course 4, " Best practices in Nastran" by J. Morlier
 
 
-# Jack Chessa's youtube channel
+# Jack Chessa's Youtube channel
 
 Brief recap on shape function
 
@@ -21,6 +21,6 @@ Nastran introduction
 [QUAD element](https://www.youtube.com/watch?v=E3LL0v0b7O0&list=PL3A7B78F0E428DF72&index=42)
 
 
-MATLAB
+MATLAB (for the miniproject?)
 
 [Gmsh with Matlab](https://www.youtube.com/watch?v=OktiDzoXql0&list=PL3A7B78F0E428DF72&index=30)
