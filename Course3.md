@@ -1,5 +1,8 @@
-# Course 3, " 2D linear elasticiy, CST, QUAD, and Gauss integration" by J. Morlier
+# Course 3, " 2D linear elasticity, CST, QUAD, and Gauss integration" by J. Morlier
 
+Normal Strain 
+
+[Part1](https://www.youtube.com/watch?v=HU2o7K020qA&list=PL3A7B78F0E428DF72&index=7)
 
 # Jack Chessa's Youtube channel on FEA
 
