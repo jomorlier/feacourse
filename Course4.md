@@ -1,10 +1,11 @@
-##Jack Chessa's youtube channel
+# Jack Chessa's youtube channel
 
 Brief recap on shape function
 
 [FEA interpolation in 2D](https://www.youtube.com/watch?v=Lsfk09A7-Qk&list=PL3A7B78F0E428DF72&index=13)
 
 [Isoparametric element in Mathematica](https://www.youtube.com/watch?v=mE6RNj6aLsc&list=PL3A7B78F0E428DF72&index=43)
+
 
 Nastran introduction 
 
