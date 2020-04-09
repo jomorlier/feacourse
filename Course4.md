@@ -1,4 +1,4 @@
-#Jack Chessa's youtube channel
+##Jack Chessa's youtube channel
 
 Brief recap on shape function
 
@@ -18,4 +18,5 @@ Nastran introduction
 
 
 MATLAB
+
 [Gmsh with Matlab](https://www.youtube.com/watch?v=OktiDzoXql0&list=PL3A7B78F0E428DF72&index=30)
