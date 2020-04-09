@@ -1,4 +1,4 @@
-# Course 1 by J. Morlier
+# Course 1, " CSM: Computational Solid Mechanics" by J. Morlier
 
 General introduction
 
