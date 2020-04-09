@@ -1,3 +1,6 @@
+# J. Morlier
+
+
 # Jack Chessa's youtube channel
 
 Brief recap on shape function
