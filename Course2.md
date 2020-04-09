@@ -1,4 +1,4 @@
-# J. Morlier
+# Course 2 Global FEM ? by J. Morlier
 
 Quiz
 
