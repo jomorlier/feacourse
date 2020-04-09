@@ -16,6 +16,7 @@ Plane Strain in Nastran
 
 
 Distributed load
+
 [Part1](https://www.youtube.com/watch?v=8lwJQmDo7zQ&list=PL3A7B78F0E428DF72&index=23)
 
 [Part2](https://www.youtube.com/watch?v=gtBFrF7nt0s&list=PL3A7B78F0E428DF72&index=22)
