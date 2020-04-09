@@ -32,3 +32,7 @@ PDE approach
 
 MoM approach
 [Part1](https://www.youtube.com/watch?v=-2milWD8rZk&list=PL3A7B78F0E428DF72&index=12)
+
+1D bar FEA
+[Part1](https://www.youtube.com/watch?v=zYPrPntBUEg&list=PL3A7B78F0E428DF72&index=6)
+[Part2](https://www.youtube.com/watch?v=A6R3UIe5xQY&list=PL3A7B78F0E428DF72&index=5)
