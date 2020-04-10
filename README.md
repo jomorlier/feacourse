@@ -66,7 +66,7 @@ you'll need to do Gauss integration (exact integration for polynoms) because of 
 ## MORE ADVANCED MATERIALS (BONUS)
 
 Prof, can you help us to understand the plate modeling and bending behaviour?
-Thanks to my PhD S. Coniglio !  [Plate2D_Bending](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse/blob/master/Plate2D_Bending/plate_el.html)
+Thanks to S. Coniglio phD !  [Plate2D_Bending](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse/blob/master/Plate2D_Bending/plate_el.html)
 
 ****
 REFERENCES
