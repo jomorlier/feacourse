@@ -56,11 +56,11 @@ TUTORIALS (MATLAB)
 I'm using a lot symbolic computation but in the scope of the course:
 you'll need to do Gauss integration (exact integration for polynoms) because of the shape functions are ofthen 3rd order polynomial...
 
-[Course 1](https://github.com/jomorlier/feacourse/blob/master/C1_tutorial)
+[Course 1](https://github.com/jomorlier/feacourse/blob/master/C1_tutorial.md)
 
-[Course 2](https://github.com/jomorlier/feacourse/blob/master/C2_tutorial)
+[Course 2](https://github.com/jomorlier/feacourse/blob/master/C2_tutorial.md)
 
-[Course 3](https://github.com/jomorlier/feacourse/blob/master/C3_tutorial)
+[Course 3](https://github.com/jomorlier/feacourse/blob/master/C3_tutorial.md)
 
 
 ## MORE ADVANCED MATERIALS (BONUS)
