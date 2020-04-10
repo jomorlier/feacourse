@@ -2,7 +2,11 @@
 
 Plane Stress/Strain
 
-[Audio with C3 slides](https://app.amanote.com/note-taking/document/5d29aed1-cdb2-40fb-9464-f755938f2b9d)
+[slides C3 with audio](https://app.amanote.com/note-taking/document/5d29aed1-cdb2-40fb-9464-f755938f2b9d)
+
+The CST element
+
+[slides C3 with audio](https://app.amanote.com/note-taking/document/99d2410b-73d8-406c-9497-e783babdbeeb)
 
 # Jack Chessa's Youtube channel on FEA
 
