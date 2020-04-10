@@ -50,16 +50,12 @@ TUTORIALS (MATLAB)
 I'm using a lot symbolic computation but in the scope of the course:
 you'll need to do Gauss integration (exact integration for polynoms) because of the shape functions are ofthen 3rd order polynomial...
 
+[Course 1](https://github.com/jomorlier/feacourse/blob/master/C1_tutorial.md)
 
-
+[Course 2](https://github.com/jomorlier/feacourse/blob/master/C2_tutorial.md)
 
 
 ## MORE ADVANCED MATERIALS (BONUS)
-
-for people wondering about how linear elasticity of top88.m is working
-
-Prof, can you help to us understand how to compute the stiffness matrix of 2D membrane?
-Explictely ?  [Membrane2D_K](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse/blob/master/Membrane2D_K/Elementarystiffrecmesh.html)
 
 Prof, can you help us to understand the plate modeling and bending behaviour?
 Thanks to my PhD S. Coniglio !  [Plate2D_Bending](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse/blob/master/Plate2D_Bending/plate_el.html)
