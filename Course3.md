@@ -1,8 +1,8 @@
 # Course 3, " 2D linear elasticity, CST, QUAD, and Gauss integration" by J. Morlier
 
-Normal Strain 
+Plane Stress/Strain
 
-[Part1](https://www.youtube.com/watch?v=HU2o7K020qA&list=PL3A7B78F0E428DF72&index=7)
+[Audio with C3 slides](https://app.amanote.com/note-taking/document/5d29aed1-cdb2-40fb-9464-f755938f2b9d)
 
 # Jack Chessa's Youtube channel on FEA
 
