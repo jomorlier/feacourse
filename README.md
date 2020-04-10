@@ -21,7 +21,7 @@ LECTURES
 * marked --> upload a zip on LMS with all your files for assignement 2& 4
 
 4 lectures [Linear FEA](https://github.com/jomorlier/feacourse2019/blob/master/ArchiveFEA.zip)
-Please read it carrefully in autonomy. 
+Please read it carrefully in autonomy. Largely inspired by [Prof Haftka's course](https://mae.ufl.edu/haftka/course.html) 
 
 ## AUDIO 
 
