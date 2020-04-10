@@ -54,6 +54,8 @@ you'll need to do Gauss integration (exact integration for polynoms) because of 
 
 [Course 2](https://github.com/jomorlier/feacourse/blob/master/C2_tutorial.md)
 
+[Course 3](https://github.com/jomorlier/feacourse/blob/master/C3_tutorial.md)
+
 
 ## MORE ADVANCED MATERIALS (BONUS)
 
