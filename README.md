@@ -23,6 +23,7 @@ LECTURES
 4 lectures [Linear FEA](https://github.com/jomorlier/feacourse2019/blob/master/ArchiveFEA.zip)
 Please read it carrefully in autonomy. Largely inspired by [Prof Haftka's course](https://mae.ufl.edu/haftka/course.html) 
 
+
 ## AUDIO 
 
 [Amanote's tutorial](https://www.youtube.com/watch?v=DvLyo9mtf3U)
@@ -45,24 +46,15 @@ The slides of the different courses are available on *SUPAERO's LMS* with supple
 TUTORIALS (MATLAB)
 ****
 
-
-
 ## Warning
 I'm using a lot symbolic computation but in the scope of the course:
 you'll need to do Gauss integration (exact integration for polynoms) because of the shape functions are ofthen 3rd order polynomial...
 
+
+
 Static Analysis SOL101 (NASTRAN) := Ku=f with K is a stiffness matrix, u vector of displacement, f vector of external force
 you get u by : inv(K)*f
 
-
-1st MATLAB tutorial on [Shape functions](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse/blob/master/Shape_Functions/ShapeFunction.html)
-
-Then How do we derive the K stiffness matrix for a rod?
-
-2nd MATLAB tutorial on [2 nodes rod](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse/blob/master/K_derivation_Rod/K_derivation2_node.html)
-
-A truss assembly by direct stiffness method ?
-[6 bar truss example](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse/blob/master/Truss/CorrectionTruss.html)
 
 But How do we derive the K stiffness matrix for a beam?
 
