@@ -72,11 +72,11 @@ Thanks to S. Coniglio phD !  [Plate2D_Bending](http://htmlpreview.github.io/?htt
 REFERENCES
 ****
 
-You can find in PC3A.pdf the content of the handwritten exercices on FEA.
+You can find on LMS the content of the handwritten exercices on FEA.
 
 https://v2.overleaf.com/project/5b92449b27c88a7311a508fd
 
-You can also find a tutorial on Finite element + Nastran in IntroNastran.pdf
+You can also find on LMS a tutorial on Finite element + Nastran in IntroNastran.pdf
 
 https://v2.overleaf.com/project/57fe421839536a6d421c2734
 
