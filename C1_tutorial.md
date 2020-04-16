@@ -8,9 +8,7 @@ the full explanation of Matlab's implementation with symbolic computing
 Matlab's implementation with 3 elements
 [correction](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse/blob/master/AxialRod/AxialBarFEM_simplified2.html)
 
-from a very nice reference https://en.wikiversity.org/wiki/Introduction_to_finite_elements/Axial_bar_finite_element_solution
-
-
+from [wikiversity](https://en.wikiversity.org/wiki/Introduction_to_finite_elements/Axial_bar_finite_element_solution)
 
 ## What is a shape function (interpolation)
 
@@ -24,7 +22,8 @@ MATLAB tutorial on [Shape functions](http://htmlpreview.github.io/?https://githu
 using [direct stiffness method](https://en.wikipedia.org/wiki/Direct_stiffness_method)
 [6 bar truss example](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse/blob/master/Truss/CorrectionTruss.html)
 
-Static Analysis SOL101 (NASTRAN) := Ku=f with K is a stiffness matrix, u vector of displacement, f vector of external force
+## Static Analysis SOL101 (NASTRAN)
+:= Ku=f with K is a stiffness matrix, u vector of displacement, f vector of external force
 you get u by : inv(K)*f
 
 For student who cannot use Nastran, I'm preparing a Matlab based solution.
