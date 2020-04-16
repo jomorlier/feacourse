@@ -1,6 +1,6 @@
-## Matlab Tutorials associated to Course 1
+# Matlab Tutorials associated to Course 1
 
-# Full correction of Assignement C1 
+## Full correction of Assignement C1 
 Axial Rod with distributed force
 the full explanation of Matlab's implementation with symbolic computing
 [Explanation](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse/blob/master/AxialRod/AxialBarFEM_explanation.html)
@@ -12,15 +12,15 @@ from a very nice reference https://en.wikiversity.org/wiki/Introduction_to_finit
 
 
 
-# What is a shape function (interpolation)
+## What is a shape function (interpolation)
 
 MATLAB tutorial on [Shape functions](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse/blob/master/Shape_Functions/ShapeFunction.html)
 
-# How do you derive the K stiffness matrix for a rod?
+## How do you derive the K stiffness matrix for a rod?
 
  MATLAB tutorial on [2 nodes rod](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse/blob/master/K_derivation_Rod/K_derivation2_node.html)
 
-# A step by step example of solving a truss assembly
+## A step by step example of solving a truss assembly
 using [direct stiffness method](https://en.wikipedia.org/wiki/Direct_stiffness_method)
 [6 bar truss example](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse/blob/master/Truss/CorrectionTruss.html)
 
