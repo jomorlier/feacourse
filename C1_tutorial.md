@@ -10,7 +10,7 @@ Matlab's implementation with 3 elements
 
 from [wikiversity](https://en.wikiversity.org/wiki/Introduction_to_finite_elements/Axial_bar_finite_element_solution)
 
-## What is a shape function (interpolation)
+## What is a shape function (interpolation)?
 
 MATLAB tutorial on [Shape functions](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse/blob/master/Shape_Functions/ShapeFunction.html)
 
