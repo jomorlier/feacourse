@@ -52,9 +52,9 @@ The slides of the different courses are available on *SUPAERO's LMS* with supple
 TUTORIALS (MATLAB)
 ****
 
-## Warning
+# Warning
 I'm using a lot symbolic computation but in the scope of the course:
-you'll need to do Gauss integration (exact integration for polynoms) because of the shape functions are ofthen 3rd order polynomial...
+you'll need to do Gauss integration (exact integration for polynoms) because of the shape functions are often  polynomial...
 
 [Course 1](https://github.com/jomorlier/feacourse/blob/master/C1_tutorial.md)
 
@@ -72,17 +72,19 @@ Thanks to S. Coniglio phD !  [Plate2D_Bending](http://htmlpreview.github.io/?htt
 REFERENCES
 ****
 
-You can find on LMS the content of the handwritten exercices on FEA.
-
-https://v2.overleaf.com/project/5b92449b27c88a7311a508fd
-
-You can also find on LMS a tutorial on Finite element + Nastran in IntroNastran.pdf
-
-https://v2.overleaf.com/project/57fe421839536a6d421c2734
-
 I strongly recommend to read and learn from this MIT's book
 
 http://web.mit.edu/kjb/www/Books/FEP_2nd_Edition_4th_Printing.pdf
+
+You can find on LMS the full content of the handwritten exercices on FEA.
+
+https://v2.overleaf.com/project/5b92449b27c88a7311a508fd
+
+You can also find on LMS Lecture Note on Finite element + Nastran in IntroNastran.pdf
+
+https://v2.overleaf.com/project/57fe421839536a6d421c2734
+
+
 
 
 ## RECAP
