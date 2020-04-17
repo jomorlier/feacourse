@@ -26,7 +26,7 @@ Assignement C4* due 28/4 at 10H30
 
 * marked --> upload a zip on LMS with all your files for assignement 2& 4
 
-4 lectures [Linear FEA](https://github.com/jomorlier/feacourse2019/blob/master/ArchiveFEA.zip)
+4 lectures [Linear FEA](https://github.com/jomorlier/feacourse2019/blob/master/Courses/ArchiveFEA.zip)
 Please read it carrefully in autonomy. Largely inspired by [Prof Haftka's course](https://mae.ufl.edu/haftka/course.html) 
 
 
@@ -34,13 +34,13 @@ Please read it carrefully in autonomy. Largely inspired by [Prof Haftka's course
 
 [Amanote's tutorial](https://www.youtube.com/watch?v=DvLyo9mtf3U)
 
-[Course 1](https://github.com/jomorlier/feacourse/blob/master/Course1.md)
+[Course 1](https://github.com/jomorlier/feacourse/blob/master/Courses/Course1.md)
 
-[Course 2](https://github.com/jomorlier/feacourse/blob/master/Course2.md)
+[Course 2](https://github.com/jomorlier/feacourse/blob/master/Courses/Course2.md)
 
-[Course 3](https://github.com/jomorlier/feacourse/blob/master/Course3.md)
+[Course 3](https://github.com/jomorlier/feacourse/blob/master/Courses/Course3.md)
 
-[Course 4](https://github.com/jomorlier/feacourse/blob/master/Course4.md)
+[Course 4](https://github.com/jomorlier/feacourse/blob/master/Courses/Course4.md)
 
 Have a look to the course exercice in the 2 repo
 AssignementC1toC2
@@ -56,11 +56,11 @@ TUTORIALS (MATLAB)
 I'm using a lot symbolic computation but in the scope of the course:
 you'll need to do Gauss integration (exact integration for polynoms) because of the shape functions are often  polynomial...
 
-[Course 1](https://github.com/jomorlier/feacourse/blob/master/C1_tutorial.md)
+[Course 1](https://github.com/jomorlier/feacourse/blob/master/Tutorials/C1_tutorial.md)
 
-[Course 2](https://github.com/jomorlier/feacourse/blob/master/C2_tutorial.md)
+[Course 2](https://github.com/jomorlier/feacourse/blob/master/Tutorials/C2_tutorial.md)
 
-[Course 3](https://github.com/jomorlier/feacourse/blob/master/C3_tutorial.md)
+[Course 3](https://github.com/jomorlier/feacourse/blob/master/Tutorials/C3_tutorial.md)
 
 
 ## MORE ADVANCED MATERIALS (BONUS)
@@ -77,10 +77,12 @@ I strongly recommend to read and learn from this MIT's book
 http://web.mit.edu/kjb/www/Books/FEP_2nd_Edition_4th_Printing.pdf
 
 You can find on LMS the full content of the handwritten exercices on FEA.
+EXERCICES [PC](https://github.com/jomorlier/feacourse/blob/master/Courses/PC3A.pdf)
 
 https://v2.overleaf.com/project/5b92449b27c88a7311a508fd
 
-You can also find on LMS Lecture Note on Finite element + Nastran in IntroNastran.pdf
+You can also find on LMS Lecture Note on Finite element + Nastran
+LECTURE NOTE [FE](https://github.com/jomorlier/feacourse/blob/master/Courses/IntroNastran.pdf)
 
 https://v2.overleaf.com/project/57fe421839536a6d421c2734
 
@@ -91,7 +93,7 @@ https://v2.overleaf.com/project/57fe421839536a6d421c2734
 
 For SUPAERO's 3rd year, you can file an archive with french course on sizing, beam's theory, structural dynamics and plate computing.
 
-Recap [Structural Mechanics](https://github.com/jomorlier/feacourse/blob/master/Recap_1A_2A_SUPAERO.zip)
+Recap [Structural Mechanics](https://github.com/jomorlier/feacourse/blob/master/Courses/Recap_1A_2A_SUPAERO.zip)
 
 
 
