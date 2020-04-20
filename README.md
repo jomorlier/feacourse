@@ -52,15 +52,15 @@ The slides of the different courses are available on *SUPAERO's LMS* with supple
 TUTORIALS (MATLAB)
 ****
 
-# Warning
-I'm using a lot symbolic computation but in the scope of the course:
-you'll need to do Gauss integration (exact integration for polynoms) because of the shape functions are often  polynomial...
-
 [Course 1](https://github.com/jomorlier/feacourse/blob/master/Tutorials/C1_tutorial.md)
 
 [Course 2](https://github.com/jomorlier/feacourse/blob/master/Tutorials/C2_tutorial.md)
 
 [Course 3](https://github.com/jomorlier/feacourse/blob/master/Tutorials/C3_tutorial.md)
+
+## Warning
+I'm using a lot symbolic computation but in the scope of the course:
+you'll need to do Gauss integration (exact integration for polynoms) because of the shape functions are often  polynomial...
 
 
 ## MORE ADVANCED MATERIALS (BONUS)
