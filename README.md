@@ -14,6 +14,7 @@ LECTURES
 4 videoconferences (ZOOM) planned on:
 
 1. Monday 20th of april 2020 14H00-14H30 Kick Off (ZOOM, J. MORLIER) 
+
 2. Tuesday 21th of april 2020 14H00-15H00 Q&A session and feedback on assignement 1/2* (ZOOM, J. MORLIER) 
 
 Assignement C2* due 22/4 at 13H00
@@ -70,10 +71,13 @@ CLASS EXERCICES
 Exercices and Corrections available on LMS
 ##Q&A sessions (ZOOM by MC & MH)
 
-Lun 27/04        14h00-15h00
-Mer 29/04        09h00-10h00
-Lun 04/05        14h00-15h00       
-Jeu 07/05        09h00-10h00
+Lun 27/04        14h00-15h00 PC1
+
+Mer 29/04        09h00-10h00 PC2
+
+Lun 04/05        14h00-15h00 PC3
+
+Jeu 07/05        09h00-10h00 PC4
 
 
 ## MORE ADVANCED MATERIALS (BONUS)
