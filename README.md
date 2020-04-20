@@ -63,6 +63,19 @@ I'm using a lot symbolic computation but in the scope of the course:
 you'll need to do Gauss integration (exact integration for polynoms) because of the shape functions are often  polynomial...
 
 
+****
+CLASS EXERCICES
+****
+
+Exercices and Corrections available on LMS
+##Q&A sessions (ZOOM by MC & MH)
+
+Lun 27/04        14h00-15h00
+Mer 29/04        09h00-10h00
+Lun 04/05        14h00-15h00       
+Jeu 07/05        09h00-10h00
+
+
 ## MORE ADVANCED MATERIALS (BONUS)
 
 Prof, can you help us to understand the plate modeling and bending behaviour?
