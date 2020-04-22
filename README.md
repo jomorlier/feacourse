@@ -27,7 +27,7 @@ Assignement C4* due 28/4 at 10H30
 
 * marked --> upload a zip on LMS with all your files for assignement 2& 4
 
-4 lectures [Linear FEA](https://github.com/jomorlier/feacourse2019/blob/master/Courses/ArchiveFEA.zip)
+4 lectures [Linear FEA](https://github.com/jomorlier/feacourse/blob/master/Courses/ArchiveFEA.zip)
 Please read it carrefully in autonomy. Largely inspired by [Prof Haftka's course](https://mae.ufl.edu/haftka/course.html) 
 
 
@@ -99,7 +99,7 @@ EXERCICES [PC](https://github.com/jomorlier/feacourse/blob/master/Courses/PC3A.p
 https://v2.overleaf.com/project/5b92449b27c88a7311a508fd
 
 You can also find on LMS Lecture Note on Finite element + Nastran
-LECTURE NOTE [FE](https://github.com/jomorlier/feacourse/blob/master/Courses/IntroNastran.pdf)
+LECTURE NOTE [FE](https://github.com/jomorlier/feacourse/blob/master/Courses/LectureNote.pdf)
 
 https://v2.overleaf.com/project/57fe421839536a6d421c2734
 
