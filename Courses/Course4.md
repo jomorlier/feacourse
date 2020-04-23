@@ -8,9 +8,14 @@ MSC Nastran core capabilities
 
 [Nastran SOL in linear mechanics](https://app.amanote.com/note-taking/document/4207f50e-ecf3-4d53-b0b7-171272fb3a5b)
 
+1D linear Buckling with 2 node with NASTRAN
+
+[SOL105 example](https://app.amanote.com/note-taking/document/567a79e2-77f9-4382-a8e1-17f62e3a1ef7)
 
 
-[COMSOL BLOG a very nice INTRODUCTION ON CSM](https://www.comsol.com/multiphysics/introduction-to-structural-mechanics)
+COMSOL BLOG
+
+[A very nice INTRODUCTION ON CSM](https://www.comsol.com/multiphysics/introduction-to-structural-mechanics)
 
 
 # Jack Chessa's Youtube channel
