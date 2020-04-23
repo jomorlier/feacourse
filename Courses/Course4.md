@@ -1,6 +1,14 @@
 # Course 4, " Best practices in Nastran" by J. Morlier
 
+General introduction on CAE
+
 [CAE and Nastran Introduction](https://app.amanote.com/note-taking/document/af185b08-0ca4-4b67-9b8e-02f02b23460f)
+
+MSC Nastran core capabilities
+
+[Nastran SOL in linear mechanics](https://app.amanote.com/note-taking/document/4207f50e-ecf3-4d53-b0b7-171272fb3a5b)
+
+
 
 [COMSOL BLOG a very nice INTRODUCTION ON CSM](https://www.comsol.com/multiphysics/introduction-to-structural-mechanics)
 
