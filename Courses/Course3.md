@@ -8,6 +8,18 @@ The CST element
 
 [slides C3 with audio](https://app.amanote.com/note-taking/document/99d2410b-73d8-406c-9497-e783babdbeeb)
 
+The CST example
+
+[slides C3 with audio](https://app.amanote.com/note-taking/document/99d2410b-73d8-406c-9497-e783babdbeeb)
+
+
+
+Numerical Integration using Gauss Quadrature
+
+[slides C3 with audio](https://app.amanote.com/note-taking/document/885120a1-ee61-4377-a456-2a1359cd18c3)
+
+
+
 # Jack Chessa's Youtube channel on FEA
 
 Normal Strain 
