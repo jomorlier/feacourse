@@ -26,11 +26,6 @@ How to use 2D membrane for bending behaviour
 
 [Effect of Meshes in Nastran](https://app.amanote.com/note-taking/document/a5a0deb1-b826-4aef-8cac-7f4f7dd90327)
 
-How to use 2D membrane for bending behaviour
-
-[Effect of Meshes in Nastran](https://app.amanote.com/note-taking/document/a5a0deb1-b826-4aef-8cac-7f4f7dd90327)
-
-
 General conclusions
 
 [on the 4 Lessons together ...](https://app.amanote.com/note-taking/document/01be521a-ec64-40f5-b686-20d3998c9429)
