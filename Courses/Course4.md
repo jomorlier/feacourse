@@ -12,6 +12,12 @@ MSC Nastran core capabilities
 
 [SOL105 example](https://app.amanote.com/note-taking/document/567a79e2-77f9-4382-a8e1-17f62e3a1ef7)
 
+For students without Nastran Student version:
+
+[COFE Nastran](https://www.dropbox.com/s/8ngnaz8g742m0c9/zoom_0.mp4.zip?dl=0)
+
+
+
 
 COMSOL BLOG
 
