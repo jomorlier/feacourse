@@ -1,7 +1,7 @@
 # Course 4, " Best practices in Nastran" by J. Morlier
 
 
-[FEA interpolation in 2D](https://www.youtube.com/watch?v=Lsfk09A7-Qk&list=PL3A7B78F0E428DF72&index=13)
+[COMSOL BLOG a very nice INTRODUCTION ON CSM](https://www.comsol.com/multiphysics/introduction-to-structural-mechanics)
 
 
 # Jack Chessa's Youtube channel
