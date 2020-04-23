@@ -1,5 +1,6 @@
 # Course 4, " Best practices in Nastran" by J. Morlier
 
+[CAE and Nastran Introduction](https://app.amanote.com/note-taking/document/af185b08-0ca4-4b67-9b8e-02f02b23460f)
 
 [COMSOL BLOG a very nice INTRODUCTION ON CSM](https://www.comsol.com/multiphysics/introduction-to-structural-mechanics)
 
