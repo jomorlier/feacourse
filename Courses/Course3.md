@@ -14,7 +14,7 @@ The CST example
 
 The QUAD example
 
-[slides C3 with audio](https://app.amanote.com/note-taking/document/be58e069-a28b-4c37-b7e6-c800c2c1ddd2)
+[slides C3 with audio](https://app.amanote.com/note-taking/document/168ccee3-acf7-433e-ad1d-fa37382deb07)
 
 
 Numerical Integration using Gauss Quadrature
