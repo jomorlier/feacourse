@@ -10,8 +10,11 @@ The CST element
 
 The CST example
 
-[slides C3 with audio](https://app.amanote.com/note-taking/document/99d2410b-73d8-406c-9497-e783babdbeeb)
+[slides C3 with audio](https://app.amanote.com/note-taking/document/be58e069-a28b-4c37-b7e6-c800c2c1ddd2)
 
+The QUAD example
+
+[slides C3 with audio](https://app.amanote.com/note-taking/document/be58e069-a28b-4c37-b7e6-c800c2c1ddd2)
 
 
 Numerical Integration using Gauss Quadrature
