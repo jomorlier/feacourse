@@ -16,8 +16,17 @@ For students without Nastran Student version:
 
 [COFE Nastran](https://www.dropbox.com/s/8ngnaz8g742m0c9/zoom_0.mp4.zip?dl=0)
 
-https://github.com/jomorlier/NASTRAN_CoFE
 https://github.com/jomorlier/NASTRAN_CoFE/tree/master/CoFE_examples/jo3_oneBarAnalysis
+
+A small Check List
+
+[2 steps](https://app.amanote.com/note-taking/document/d454daf0-9508-4977-8e8b-250099f61031)
+
+A small Check List
+
+[2 steps](https://app.amanote.com/note-taking/document/d454daf0-9508-4977-8e8b-250099f61031)
+
+
 
 COMSOL BLOG
 
