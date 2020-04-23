@@ -18,6 +18,11 @@ Numerical Integration using Gauss Quadrature
 
 [slides C3 with audio](https://app.amanote.com/note-taking/document/885120a1-ee61-4377-a456-2a1359cd18c3)
 
+Numerical Integration Examples
+
+[slides C3 with audio](https://app.amanote.com/note-taking/document/eb21f9ae-fc9f-4eb7-b97a-500de4a76dd6)
+
+
 
 
 # Jack Chessa's Youtube channel on FEA
