@@ -1,6 +1,26 @@
 # feacourse 2020
 
 ****
+NASTRAN SESSION
+****
+
+
+TP1 Monday 4 may 2020 13h30 14H30 2 groups SC JFP
+
+TP2 
+Thursday 7 may 2020 09h00 10h00 2 groups SC JFP
+ 
+TP3
+Wednesday 13 may 2020 09h15 10h15 2 groups SC JFP
+
+TP4 Thursday 14 may 2020 09h15 10h15  2 groups SC JFP
+
+ 
+
+
+
+
+****
 POPULARIZATION
 ****
 
