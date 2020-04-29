@@ -5,10 +5,10 @@ NASTRAN SESSION
 ****
 
 
-TP1 Monday 4 may 2020 13h30 14H30 2 groups SC JFP
+TP1 Monday 4 may 2020 15h15 16h15 2 groups SC JFP
 
 TP2 
-Thursday 7 may 2020 09h00 10h00 2 groups SC JFP
+Thursday 7 may 2020 10h15 11h15 2 groups SC JFP
  
 TP3
 Wednesday 13 may 2020 09h15 10h15 2 groups SC JFP
