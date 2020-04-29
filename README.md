@@ -5,10 +5,10 @@ NASTRAN SESSION
 ****
 
 
-TP1 Monday 4 may 2020 15h15 16h15 2 groups SC JFP
+TP1 Monday 4 may 2020 13h30 14h30 2 groups SC JFP
 
 TP2 
-Thursday 7 may 2020 10h15 11h15 2 groups SC JFP
+Thursday 7 may 2020 9H00 10H00 2 groups SC JFP
  
 TP3
 Wednesday 13 may 2020 09h15 10h15 2 groups SC JFP
@@ -79,11 +79,11 @@ Exercices and Corrections available on LMS
 
 Lun 27/04        14h00-15h00 PC1 done
 
-Mer 29/04        09h00-10h00 PC2
+Mer 29/04        09h00-10h00 done
 
-Lun 04/05        14h00-15h00 PC3
+Lun 04/05        14h45-15h45 PC3 updated
 
-Jeu 07/05        09h00-10h00 PC4
+Jeu 07/05        10H15-11h15 PC4 updateed
 
 
 ## MORE ADVANCED MATERIALS (BONUS)
