@@ -15,10 +15,6 @@ Wednesday 13 may 2020 09h15 10h15 2 groups SC JFP
 
 TP4 Thursday 14 may 2020 09h15 10h15  2 groups SC JFP
 
- 
-
-
-
 
 ****
 POPULARIZATION
@@ -77,13 +73,11 @@ CLASS EXERCICES
 Exercices and Corrections available on LMS
 ##Q&A sessions (ZOOM by MC & MH)
 
-Lun 27/04        14h00-15h00 PC1 done
-
-Mer 29/04        09h00-10h00 done
+2 first done
 
 Lun 04/05        14h45-15h45 PC3 updated
 
-Jeu 07/05        10H15-11h15 PC4 updateed
+Jeu 07/05        10H15-11h15 PC4 updated
 
 
 ## MORE ADVANCED MATERIALS (BONUS)
