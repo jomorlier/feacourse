@@ -1,22 +1,6 @@
 # feacourse 2020
 
 ****
-NASTRAN SESSION
-****
-
-
-TP1 Monday 4 may 2020 13h30 14h30 2 groups SC JFP
-
-TP2 
-Thursday 7 may 2020 9H00 10H00 2 groups SC JFP
- 
-TP3
-Wednesday 13 may 2020 09h15 10h15 2 groups SC JFP
-
-TP4 Thursday 14 may 2020 09h15 10h15  2 groups SC JFP
-
-
-****
 POPULARIZATION
 ****
 
@@ -27,7 +11,8 @@ LECTURES
 ****
 
 ## Q&A session 
-4 videoconferences (ZOOM) done.
+8 videoconferences (lessons/Exercices) done.
+4 videoconferences (nastran) done.
 
 4 lectures [Linear FEA](https://github.com/jomorlier/feacourse/blob/master/Courses/ArchiveFEA.zip)
 Please read it carrefully in autonomy. Largely inspired by [Prof Haftka's course](https://mae.ufl.edu/haftka/course.html) 
@@ -64,20 +49,6 @@ TUTORIALS (MATLAB)
 ## Warning
 I'm using a lot symbolic computation but in the scope of the course:
 you'll need to do Gauss integration (exact integration for polynoms) because of the shape functions are often  polynomial...
-
-
-****
-CLASS EXERCICES
-****
-
-Exercices and Corrections available on LMS
-##Q&A sessions (ZOOM by MC & MH)
-
-2 first done
-
-Lun 04/05        14h45-15h45 PC3 updated
-
-Jeu 07/05        10H15-11h15 PC4 updated
 
 
 ## MORE ADVANCED MATERIALS (BONUS)
