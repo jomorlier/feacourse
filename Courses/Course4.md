@@ -35,6 +35,10 @@ COMSOL BLOG
 
 [A really nice INTRODUCTION ON CSM](https://www.comsol.com/multiphysics/introduction-to-structural-mechanics)
 
+[A nice tutorial on damping 1/2](https://www.comsol.com/blogs/damping-in-structural-dynamics-theory-and-sources/)
+
+[A nice tutorial on damping 2/2](https://www.comsol.com/blogs/how-to-model-different-types-of-damping-in-comsol-multiphysics/)
+
 
 # Jack Chessa's Youtube channel
 
