@@ -46,6 +46,8 @@ TUTORIALS (MATLAB)
 
 [Course 3](https://github.com/jomorlier/feacourse/blob/master/Tutorials/C3_tutorial.md)
 
+[Course 4](https://github.com/jomorlier/feacourse/blob/master/Tutorials/C4_tutorial.md)
+
 ## Warning
 I'm using a lot symbolic computation but in the scope of the course:
 you'll need to do Gauss integration (exact integration for polynoms) because of the shape functions are often  polynomial...
