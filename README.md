@@ -62,6 +62,8 @@ Thanks to S. Coniglio phD !  [Plate2D_Bending](http://htmlpreview.github.io/?htt
 REFERENCES
 ****
 
+LECTURE NOTE [Nastran](https://github.com/jomorlier/feacourse/blob/master/Courses/IntroNastran.pdf)
+
 I strongly recommend to read and learn from this MIT's book
 
 http://web.mit.edu/kjb/www/Books/FEP_2nd_Edition_4th_Printing.pdf
