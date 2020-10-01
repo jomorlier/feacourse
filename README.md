@@ -64,7 +64,7 @@ REFERENCES
 
 LECTURE NOTE [Theory](https://web.calpoly.edu/~aneuenho/teaching/arce504coursematerial.pdf) thanks to Prof Dr.-Ing. Ansgar Neuenhofer, Technische Hochschule Köln
 
-LECTURE NOTE [Nastran](https://github.com/jomorlier/feacourse/blob/master/Courses/IntroNastran.pdf)
+LECTURE NOTE in french [Nastran](https://github.com/jomorlier/feacourse/blob/master/Courses/IntroNastran.pdf)
 
 I strongly recommend to read and learn from this MIT's book
 
