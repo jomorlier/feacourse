@@ -16,7 +16,7 @@ MATLAB tutorial on [Shape functions](http://htmlpreview.github.io/?https://githu
 
 ## How do you derive the K stiffness matrix for a rod?
 
- MATLAB tutorial on [2 nodes rod](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse/blob/master/K_derivation_Rod/K_derivation2_node.html)
+ MATLAB tutorial on [2 nodes rod](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse/blob/master/K_derivation_Rod/K_derivation_rod.html)
 
 ## A step by step example of solving a truss assembly
 using [direct stiffness method](https://en.wikipedia.org/wiki/Direct_stiffness_method)
