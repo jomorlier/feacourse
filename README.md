@@ -11,21 +11,8 @@ LECTURES
 ****
 
 ## Q&A session 
-4 videoconferences (ZOOM) planned on:
-
-1. Monday 20th of april 2020 14H00-14H30 Kick Off (ZOOM, J. MORLIER) 
-
-2. Tuesday 21th of april 2020 14H00-15H00 Q&A session and feedback on assignement 1/2* (ZOOM, J. MORLIER) 
-
-Assignement C2* due 22/4 at 13H00
-
-3. Wednesday 22th of april 2020 13H30-14H00  Q&A session and feedback on assignement 2*/3 (ZOOM, J. MORLIER) 
-
-Assignement C4* due 28/4 at 10H30
-
-4. Tuesday 28th of april 2020 11H00-12H00  Q&A session and feedback on assignement 4* (ZOOM, J. MORLIER) 
-
-* marked --> upload a zip on LMS with all your files for assignement 2& 4
+8 videoconferences (lessons/Exercices) done.
+4 videoconferences (nastran) done.
 
 4 lectures [Linear FEA](https://github.com/jomorlier/feacourse/blob/master/Courses/ArchiveFEA.zip)
 Please read it carrefully in autonomy. Largely inspired by [Prof Haftka's course](https://mae.ufl.edu/haftka/course.html) 
@@ -59,25 +46,11 @@ TUTORIALS (MATLAB)
 
 [Course 3](https://github.com/jomorlier/feacourse/blob/master/Tutorials/C3_tutorial.md)
 
+[Course 4](https://github.com/jomorlier/feacourse/blob/master/Tutorials/C4_tutorial.md)
+
 ## Warning
 I'm using a lot symbolic computation but in the scope of the course:
 you'll need to do Gauss integration (exact integration for polynoms) because of the shape functions are often  polynomial...
-
-
-****
-CLASS EXERCICES
-****
-
-Exercices and Corrections available on LMS
-##Q&A sessions (ZOOM by MC & MH)
-
-Lun 27/04        14h00-15h00 PC1
-
-Mer 29/04        09h00-10h00 PC2
-
-Lun 04/05        14h00-15h00 PC3
-
-Jeu 07/05        09h00-10h00 PC4
 
 
 ## MORE ADVANCED MATERIALS (BONUS)
@@ -88,6 +61,10 @@ Thanks to S. Coniglio phD !  [Plate2D_Bending](http://htmlpreview.github.io/?htt
 ****
 REFERENCES
 ****
+
+LECTURE NOTE [Theory](https://web.calpoly.edu/~aneuenho/teaching/arce504coursematerial.pdf) thanks to Prof Dr.-Ing. Ansgar Neuenhofer, Technische Hochschule Köln
+
+LECTURE NOTE in french [Nastran](https://github.com/jomorlier/feacourse/blob/master/Courses/IntroNastran.pdf)
 
 I strongly recommend to read and learn from this MIT's book
 

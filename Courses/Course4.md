@@ -12,16 +12,30 @@ MSC Nastran core capabilities
 
 [SOL105 example](https://app.amanote.com/note-taking/document/567a79e2-77f9-4382-a8e1-17f62e3a1ef7)
 
-For students without Nastran Student version:
-
-[COFE Nastran](https://www.dropbox.com/s/8ngnaz8g742m0c9/zoom_0.mp4.zip?dl=0)
+# For students without Nastran Student version:see course 4 Matlab tutorials
 
 
+
+A small Check List
+
+[2 steps](https://app.amanote.com/note-taking/document/d454daf0-9508-4977-8e8b-250099f61031)
+
+How to use 2D membrane for bending behaviour
+
+[Effect of Meshes in Nastran](https://app.amanote.com/note-taking/document/a5a0deb1-b826-4aef-8cac-7f4f7dd90327)
+
+General conclusions
+
+[on the 4 Lessons together ...](https://app.amanote.com/note-taking/document/01be521a-ec64-40f5-b686-20d3998c9429)
 
 
 COMSOL BLOG
 
-[A very nice INTRODUCTION ON CSM](https://www.comsol.com/multiphysics/introduction-to-structural-mechanics)
+[A really nice INTRODUCTION ON CSM](https://www.comsol.com/multiphysics/introduction-to-structural-mechanics)
+
+[A nice tutorial on damping 1/2](https://www.comsol.com/blogs/damping-in-structural-dynamics-theory-and-sources/)
+
+[A nice tutorial on damping 2/2](https://www.comsol.com/blogs/how-to-model-different-types-of-damping-in-comsol-multiphysics/)
 
 
 # Jack Chessa's Youtube channel
