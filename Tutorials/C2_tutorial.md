@@ -7,7 +7,7 @@ The first question is :
 
 [see for example PC2 EX2]:
 
-MATLAB tutorial on [2 nodes beam](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse/blob/master/K_derivation_Beam/K_derivation_beam.html)
+MATLAB tutorial on [2 nodes beam](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse/blob/master/K_derivation_Beam/K_derivation_beamP.html)
 
 ## And probably the most important thing ... how can I model distributed forces?
 
