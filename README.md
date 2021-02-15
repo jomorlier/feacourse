@@ -58,6 +58,7 @@ you'll need to do Gauss integration (exact integration for polynoms) because of 
 Prof, can you help us to understand the plate modeling and bending behaviour?
 Thanks to S. Coniglio phD !  [Plate2D_Bending](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse/blob/master/Plate2D_Bending/plate_el.html)
 
+EnterFEA [Youtube channel](https://www.youtube.com/channel/UCQimKGKWpqXDVXby06Qynpw) 
 ****
 REFERENCES
 ****
