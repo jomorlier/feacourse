@@ -74,6 +74,8 @@ http://web.mit.edu/kjb/www/Books/FEP_2nd_Edition_4th_Printing.pdf
 You can find on LMS the full content of the handwritten exercices on FEA.
 EXERCICES [PC](https://github.com/jomorlier/feacourse/blob/master/Courses/PC3A.pdf)
 
+[Amanote Audio](https://app.amanote.com/note-taking/document/f7797fc3-cbad-467c-8509-b5e66f34e2bf)
+
 https://v2.overleaf.com/project/5b92449b27c88a7311a508fd
 
 You can also find on LMS Lecture Note on Finite element + Nastran
