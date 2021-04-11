@@ -52,6 +52,13 @@ TUTORIALS (MATLAB)
 I'm using a lot symbolic computation but in the scope of the course:
 you'll need to do Gauss integration (exact integration for polynoms) because of the shape functions are often  polynomial...
 
+## CLASS EXERCICES
+You can find on LMS the full content of the handwritten exercices on FEA.
+EXERCICES [PC](https://github.com/jomorlier/feacourse/blob/master/Courses/PC3A.pdf)
+
+[Amanote Audio for Class 1&2](https://app.amanote.com/note-taking/document/f7797fc3-cbad-467c-8509-b5e66f34e2bf)
+
+https://v2.overleaf.com/project/5b92449b27c88a7311a508fd
 
 ## MORE ADVANCED MATERIALS (BONUS)
 
@@ -63,22 +70,13 @@ EnterFEA [Youtube channel](https://www.youtube.com/channel/UCQimKGKWpqXDVXby06Qy
 REFERENCES
 ****
 
-LECTURE NOTE [Theory](https://web.calpoly.edu/~aneuenho/teaching/arce504coursematerial.pdf) thanks to Prof Dr.-Ing. Ansgar Neuenhofer, Technische Hochschule Köln
-
-LECTURE NOTE in french [Nastran](https://github.com/jomorlier/feacourse/blob/master/Courses/IntroNastran.pdf)
 
 I strongly recommend to read and learn from this MIT's book
 
 http://web.mit.edu/kjb/www/Books/FEP_2nd_Edition_4th_Printing.pdf
 
-You can find on LMS the full content of the handwritten exercices on FEA.
-EXERCICES [PC](https://github.com/jomorlier/feacourse/blob/master/Courses/PC3A.pdf)
+You can also find on LMS Lecture Note on Finite element + Nastran thanks to Prof Dr.-Ing. Ansgar Neuenhofer, Technische Hochschule Köln
 
-[Amanote Audio](https://app.amanote.com/note-taking/document/f7797fc3-cbad-467c-8509-b5e66f34e2bf)
-
-https://v2.overleaf.com/project/5b92449b27c88a7311a508fd
-
-You can also find on LMS Lecture Note on Finite element + Nastran
 LECTURE NOTE [FE](https://github.com/jomorlier/feacourse/blob/master/Courses/LectureNote.pdf)
 
 https://v2.overleaf.com/project/57fe421839536a6d421c2734
@@ -86,9 +84,12 @@ https://v2.overleaf.com/project/57fe421839536a6d421c2734
 
 
 
+
 ## RECAP
 
 For SUPAERO's 3rd year, you can file an archive with french course on sizing, beam's theory, structural dynamics and plate computing.
+
+For SUPAERO's 2nd year, LECTURE NOTE in french [Nastran](https://github.com/jomorlier/feacourse/blob/master/Courses/IntroNastran.pdf)
 
 Recap [Structural Mechanics](https://github.com/jomorlier/feacourse/blob/master/Courses/Recap_1A_2A_SUPAERO.zip)
 
