@@ -1,6 +1,6 @@
 # Matlab tutorial associated to Course 3
 
-##correction 
+## Corrections 
 
 correction of [Numerical integration exercice](https://github.com/jomorlier/afeacourse/blob/master/RECAP/Assignement3correction.pdf)
 --> mlx also available
