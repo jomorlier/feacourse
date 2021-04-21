@@ -20,12 +20,12 @@ MATLAB tutorial on [Equivalent forces for beam element](http://htmlpreview.githu
 
 Assignement C2* correction soon available:
 
-an implementation with the explained [Example2](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse/blob/master/Correction_Example2/Correction_Example2.html)
-
+an implementation with the explained [Example2](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse/blob/master/Correction_Example2/Correction_Example2_NoSYM.html)
 
 ## Can you add the strain/stress postprocessing?
 
-To check the same example using Symbolic computing for checking the slides [Example2](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse/blob/master/Correction_Example2/Correction_Example2_NoSYM.html)
+To check the same example using Symbolic computing for checking the slides [Example2](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse/blob/master/Correction_Example2/Correction_Example2.html)
+
 
 ## How can I assembly beam + bar ? 
 
