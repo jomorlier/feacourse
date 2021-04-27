@@ -6,6 +6,8 @@ POPULARIZATION
 
 https://www.linkedin.com/pulse/possible-build-aircraft-wing-lego-joseph-morlier/
 
+A visual introduction to [FEA](https://www.youtube.com/watch?v=GHjopp47vvQ)
+
 ****
 LECTURES
 ****
