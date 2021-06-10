@@ -31,5 +31,10 @@ To check the same example using Symbolic computing for checking the slides [Exam
 
 [AssignementC2_2018](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse/blob/master/AssignementC2_2018/Assignement2_2018_correction.html)
 
+## Transfer matrix for 2D truss : [BAR element]
+(https://github.com/jomorlier/feacourse/blob/master/Courses/2D_BAR.pdf)
+
+## Transfer matrix for 2D frame : [BEAM element]
+(https://github.com/jomorlier/feacourse/blob/master/Courses/2D_BEAM.pdf)
 
 
