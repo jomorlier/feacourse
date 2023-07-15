@@ -1,4 +1,4 @@
-# feacourse 2021
+# feacourse
 
 ****
 POPULARIZATION
