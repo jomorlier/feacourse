@@ -2,8 +2,10 @@
 
 
 The first question is :
+## How do we derive the K and stiffness matrix for a beam?
+MATLAB tutorial on [Euler beam](http://htmlpreview.github.io/?https://github.com/jomorlier/feacourse/blob/master/K_derivation_Beam/beamExample.html)
 
-## How do we derive the K stiffness matrix for a beam?
+## How do we derive the K stiffness matrix for a beam? (Old version)
 
 [see for example PC2 EX2]:
 
